@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express-generator": "^4.16.1",
+    "mongoose": "^8.18.0"
+  }
+}
