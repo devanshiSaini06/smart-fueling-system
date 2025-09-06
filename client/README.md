@@ -67,3 +67,14 @@ export default tseslint.config([
   },
 ])
 ```
+# Nawgati Clone (Frontend)
+
+A React + Tailwind CSS + TypeScript frontend for a Nawgati-like fuel station locator.
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourname/nawgati-clone.git
+cd nawgati-clone
