@@ -1,0 +1,10 @@
+{
+  "location": "New Delhi",
+  "updated_at": "2025-09-07T18:00:00Z",
+  "prices": [
+    { "station": "Indian Oil - CP", "petrol": 98.3, "diesel": 89.5, "cng": 75.0, "distance_km": 1.2 },
+    { "station": "HP - Connaught Place", "petrol": 97.9, "diesel": 90.0, "cng": null, "distance_km": 1.5 },
+    { "station": "Bharat Petroleum - RK Puram", "petrol": 98.5, "diesel": 89.0, "cng": 74.5, "distance_km": 2.0 },
+    { "station": "Reliance - Janpath", "petrol": 99.0, "diesel": 90.2, "cng": 75.5, "distance_km": 0.9 }
+  ]
+}
